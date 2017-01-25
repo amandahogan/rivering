@@ -1,0 +1,38 @@
+.container-fluid{
+  border-style: dashed;
+  border-color: black;
+  padding-top: 15px;
+  background-color: #42f4f4;
+}
+
+footer{
+  padding-top: 60px;
+  position: absolute;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+header{
+  padding: 30px;
+  text-align: center;
+}
+
+.mb-1 em{
+  color: blue
+}
+
+.today i{
+  padding: 6px;
+  align-content: center;
+}
+
+.tongo{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/236x/23/ae/cb/23aecb1da37ee1b54af15cb53e60b8c8.jpg);
+  color: white;
+}
+
+.confidence-level img{
+  max-height: 100px;
+  max-width: 100px;
+}

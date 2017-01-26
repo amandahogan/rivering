@@ -13,11 +13,7 @@ export default React.createClass({
     return (
       <div>
         <Header />
-        <Graph />
-        <Participate />
-        <Sections />
-        <Stations />
-        <Weather />
+        {this.props.children}
         <Navigation />
 
       </div>

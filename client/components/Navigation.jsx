@@ -8,8 +8,7 @@ export default React.createClass({
           <div className="pos-f-t">
             <div className="collapse" id="navbarToggleExternalContent">
               <div className="bg-inverse p-4">
-                <h4 className="text-white">Navigation</h4>
-                <span className="text-muted">Example</span>
+                <h4 className="text-white">Rivers</h4>
               </div>
             </div>
               <nav className="navbar navbar-inverse bg-inverse">
